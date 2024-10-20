@@ -345,7 +345,7 @@ class ActionNode:
 
     def compile_to(self, i: Dict, schema, kv_sep) -> str:
         if schema == "json":
-            return json.dumps(i, indent=4, ensure_ascii=False)
+            return json.dumps(i, indent=4, ensure_ascii=False, cls=CustomJSONEncoder)
         elif schema == "markdown":
             return dict_to_markdown(i, kv_sep=kv_sep)
         else:
@@ -443,6 +443,17 @@ class ActionNode:
             parsed_data = OutputParser.parse_data_with_mapping(content, output_data_mapping)
 
         logger.debug(f"parsed_data:\n{parsed_data}")
+
+        # Handle potential null values
+        for key, value in parsed_data.items():
+            if value is None:
+                if output_data_mapping[key][0] == float:
+                    parsed_data[key] = 0.0
+                elif output_data_mapping[key][0] == List[str]:
+                    parsed_data[key] = []
+                elif output_data_mapping[key][0] == str:
+                    parsed_data[key] = ""
+
         instruct_content = output_class(**parsed_data)
         return content, instruct_content
 
@@ -867,3 +878,17 @@ class ActionNode:
             non_none_types = [arg for arg in args if arg is not type(None)]
             return len(non_none_types) == 1 and len(args) == 2
         return False
+
+
+# Add this new class after the imports
+class CustomJSONEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if obj.__class__.__name__ == 'PydanticUndefinedType':
+            return None
+        elif isinstance(obj, BaseModel):
+            return obj.model_dump()
+        elif hasattr(obj, '__dict__'):
+            return obj.__dict__
+        return super().default(obj)
+
+

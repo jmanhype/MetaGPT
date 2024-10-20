@@ -1,0 +1,15 @@
+model_config:
+  optimize_model:
+    model: "gpt-4-turbo"
+    api_type: "openai"
+    base_url: "https://api.openai.com/v1"
+    api_key: "your_openai_api_key"
+    temperature: 0
+  execute_model:
+    model: "gpt-3.5-turbo"
+    api_type: "openai"
+    base_url: "https://api.openai.com/v1"
+    api_key: "your_openai_api_key"
+    temperature: 0
+
+CALC_USAGE: True

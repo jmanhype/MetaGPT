@@ -1,0 +1,4802 @@
+[
+  {
+    "question": "What kind of company is this group whose headquarters are in AIA Central? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What current NHL team owner played for the team that won the Stanley cup in 1992?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which founding member drew critical acclaim as a bass guitarist with melodic basslines  on Murmur?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The saint in \"A Time for Miracles\" was born on what date?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Young Sheldon, the tv series that follows the character Sheldon Cooper at the age of 9, is a spin-off from what prequel?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Get Off is an album by a group using which style originating in NYC in the early 1970s?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Reima Karppinen won a silver medal in the double sculls at the Rowing Championships held in what German city?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Claudine's Return starred the actress who played which role on \"Married...with Children\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the founding year of the county where Weber's Store is located?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What has Henry Winkler worked as that Norman Foster has not?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The author of Some Other Rainbow was born on what day and year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The American Sweetgum is the hostplant of what kind of bug?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who directed the film which starred Steve Cochran and the actor who played Sheriff Roy Coffee in \"Bonanza\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What form of play does Yameen and Activision have in common?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When did  former Yugoslav which  Patricia Hy-Boulais eventually lost to in  1992 US Open became US citizen",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Cowie Castle at Stonehaven, and Allardice Castle near Inverbervie, are part of a coastal chain of castles in Scotland overlooking which sea?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "On what part of U.S Route 56 can you listen to the KCTV?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What company headquartered in Whitley, Coventry, United Kingdom will start production in Nitra in 2018?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which Scottish playwright wrote the poem \"Havisham\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the population of the town as of 2000 where the historic tugboat Catawissa is located?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "At what intersection was the former home of the wooden roller coaster now located at Six Flags Great America in Gurnee, Illinois located?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What casino in Las Vegas which is now operated by MGM Resorts International was developed by William G. Bennett?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Was Kanako Momota or Mark Hollis born first?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was Mary Edna Gonz\u00e1lez sexuality? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The actor who starred in \"The Hearse\" gained worldwide film by starring in whose series of 1940s films?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are both the Wire Fox Terrier and West Siberian Laika dog breeds?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What nationality was the inventor of the Alexander Technique for retraining the mind and body to avoid muscular tension?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What other jobs did the man that co-produced Gyara Hazar Ladkian have?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How many of the 12 million immigrants to the United States through Ellis Island were Italian immigrants?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Gail Matthius co-anchored the Weekend Update segment of \"Saturday Night Live\" with the actor who played the villain Nicholas Andre in what movie?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are both Frank Lloyd and Olivier Assayas American film directors?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which actor/actress from Overnight Delivery was born in New Orleans?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Does Dashboard Confessional have more members than World Party?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which university has more schools, Ateneo de Davao University or University of Rochester?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Father Jean-Pierre Aulneau de le Touche was killed before he could go on an expedition to Mandan, which is located in which state? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what year was the band, whose bassist joined Arvas in 1996, formed?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who created the manga series originally serialized from 1994-1995with a superheroine?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Bytham Castle is a castle in the civil parish of how many houses?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which civilization instigated a war with Rome and significantly influenced the Latin language?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": " Curious is a women's fragrance by a singer born in what city and state?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the population at the 2010 census of the city which, along with Clayton, is covered by the Mount Diablo Unified School District?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Wilm Hosenfeld assisted the pianist and composer of what nationality survive during 1944?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what mountain range that extends through multiple countries is there a mountain that lies southeast of Jacabamba?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Worker: What professional title to both Christopher Nolan and Paul Schrader boast?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Fantasy Records is know for recordings of comedian Lenny Bruce, Creedence Clearwater Revival, and what American jazz pianist who composed the music for the animated television adaptations of the \"Peanuts\" comic strip?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are the movies \"Monsters, Inc.\" and \"Mary Poppins\" both by the same company?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Were was the Mexican state after which there is Villa Uni\u00f3n, Sinaloa located? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is a popular industry in the neighborhood of Willow Vale, New South Wales?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "David Wayne Hull (born 1962 or 1963) is a leader of which group that originated in Mississippi in the early 1960s under the leadership of Samuel Bowers, its first Grand Wizard?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What class of yamaha class sport bike motorcycle did Ryuji Yokoa use when he finished as champion in the MFJ All Japan Road Race GP250 Championship in 2006?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which American professional poker player also starred in the 2015 movie \"Extraction\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the birthday of the oldest among Vicente Garc\u00eda and Ximena Sari\u00f1ana?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the the origin of the player that the Bull's traded with 76ers during the 1999-2000 midseason?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is the controlling shareholder of the world's fourth-largest tyre manufacturer?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which genus of plant grows originally in Mexico and Guatemala, Phylica or Weldenia?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Faces is a mixtape that features guest appearances from an American rapper who released one album with Souf Folk called what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What year did the shopping centre on the street numbered B411 open in the space of in the retail space of the former William Whiteley Limited department store?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What film did the sound editor for a 2013 Hong Kong-Chinese martial arts drama film based on the life story of the Wing Chun grandmaster Ip Man win two Academy Awards for?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "which American political consultant was a former Trump campaign ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where is the company that Sachin Warrier worked for as a software engineer headquartered? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are Southwest Florida International Airport and Henry E. Rohlsen Airport both in Florida?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "South Dade High School is located between what two national parks?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who does the current PFA Young Player of the Year currently play for?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are both Schweizerischer Niederlaufhund and Portuguese Podengo dog breeds from Portugal?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which American actor tries to make his long distance relationship with Priya work in \"The Infestation Hypothesis\"  ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What season was the character introduced that becomes the main antagonist in the  following season, from the animated television series created by Bryan Konietzko and Michael Dante DiMartino as a sequel to \"\", which aired from 2005 to 2008? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the nationality of Bernhard Heiden's teacher?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What technique does Cam Clarke and Akira have in common?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Swiss music duo Double released their best known single \"The Captain of Her Heart\" in what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The director of Panic 5 Bravo was born in what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What muffler repair shop owner inspired Andrey Zvyagintsev's film Leviathan?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was a grandson of Aurelia Plath and was a fisheries biologist?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where are Teide National Park and Garajonay National Park located?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where was the movie filmed starring Choi Yoon-young in 2012?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What role did Veda Hlubinka-Cook have in the making of this 1997 video game that takes place on the Orient Express, days before the start of World War I?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Two positions were filled in The Voice of Ireland b which British-Irish girl group based in London, England?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which director, John Schlesinger or Barbara Albert, was also a writer and film producer?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which documentary was release first, Baghdad ER or The Ten-Year Lunch?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is older, Jed Hoyer or John William Henry II?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Jaroslav Kvapil the Czech poet was born in the Kingdom of Bohemia, also referred to by what name?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What three states junction is near the gap that Peter Hackett traveled along during the Scotish-Irish migration along the Wilderness Road?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which writer, Karen Blixen or Woody Allen, has a broader range of artistic talents?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "My Neighbor Totoro was produced by a Japanese animation film studio founded in what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which band has had more members, The Operation M.D. or Del Amitri?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Bangalore Naatkal starred which actor and photographer?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What award did the writer of Never Let Me Go novel win in 1989?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are both Stanley Elkin and Anne Lamott non-fiction writers? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Somebody\u2019s Daughter\u2019s star Max Gail was most widely known for his role in what other television series?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Lafe Pence was a member of which lower chamber of the United States congress?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Wright Model B was an early pusher biplane designed by what inventors and aviation pioneers who are credited with building the world's first successful airplane?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Vincent Drucci was a member of a rival gang to the mob boss who was known by what nickname?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The American short horror The sub stars which American actress, make-up artist and producer born in 1964?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How many albums had been recorded by Talking Heads by November, 1980?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Valuair was acquired in 2005 by a low-cost airline based where?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What does the goddess associated with the goddess frigg  consists of what tales?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which f beer brewed in the Pajottenland region  American wild ale similar to ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The McKinley Tariff was framed by the representative who was later assassinated in what month?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Trans-Tasman Challenge winning car was based off which second generation North american Ford compact car?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What WikiLeaks using whistleblower is notable for having a hacking organization with a user base of over 1,800,000?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "the first woman to be the chef de mission of an Australian Olympic team won gold medal in which winter Olympics ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the name of Scottish singer-songwriter James Aaron Diamond's first solo album that debuted in 1985?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was Germany's large-scale, low strength fortification unit, disbanded in 1919, named after? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was older when they died, Teinosuke Kinugasa or Don O. Newland",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Louis, Count of Armagnac has a descendant that includes which final king of Italy?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When was the game, in which Drew Gehling voices Gord, released for PlayStation 2?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The 2017\u201318 Wigan Athletic F.C. season will be a year in which the team competes in the league cup known as what for sponsorship reasons?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The bomber who carried out a Provisional Irish Republican Army (IRA) assassination attempt against the top tier of the British government in 1984 was born in what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where does the train that runs from NYC and Miami station at in Florida?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who does the previous Vice President of Production at the animation studio that is owned and operated by Viacom, currently work for?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In the British experimental jazz band Polar Bear, who handles digital devices?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which American novelist was notable primarily for publishing science fiction, Allen Drury or Philip K. Dick?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is this machine that is able to fly by gaining support from the air whose maneuvering is referenced to a standard rate turn, also known as a rate one turn?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The uncle of Paul Capellani died at a military operation during a battle was fought between who?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What actress portrayed Rachel Green on the sitcom \"Friends\" and starred in the movie \"She's Funny That Way\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Arr\u00eatez-moi is a film in which film genre, known for suspense and anxiety?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What did  the man who  led Sweden to military supremacy during the Thirty Years' War found in 1623?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The university where Rolf Martin Theodor Dahlgren worked as a professor has how many employees?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What album did R.Kelly release the same year as producing \"These Are Special Times\" for Celine Dion. ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Admiral's Men occupied which kind of theatre in the 1590s ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Friedrich Ratzel coined the phrase Lebensraum; which political movement made it notorious by taking it to extremes?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Richard M\u00fcnch portrayed the German general who served in what capacity during WWII in the 1970 movie Patton?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Felicia Pearson is a rapper who appeared in the single \"Here I Am\" by who?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "This \u0915\u0938\u092c\u093e \u092a\u0947\u0920 \u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e \u092e\u0924\u0926\u093e\u0930\u0938\u0902\u0918 is an example of a language that ranks what in the number of native speakers in India?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which American Space Western animated series did Celebrity Home Entertainment released ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which writer was from England, Henry Roth or Robert Erskine Childers?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What other teams played in the same division that Chad Clements played in?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who led the Texian Army in the battle in whichJoseph L. Bennett served as lieutenant colonel?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Suzanne Simone Baptiste Louverture is the wife of the leader of which revolution?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The city Charles Prince Airport is approximately 16 km northwest of was called Salisbury until what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "David Lightfoot worked on what film loosely based on the murders of tourists by Ivan Milat in the 1990's?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which genus has more species, Xanthoceras or Ehretia?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "On which television network did Joe Penny play an investigator named Jake Styles?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who won more awards, Brothers Quay or Jake Kasdan?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which band has more members, Chvrches or Goodbye Mr. Mackenzie?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Heinrich Marschner was a composer who performed in the time frame after one of the first significant composers in what school of work?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which band was formed first, Circus Diablo or Magic Dirt?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the home stadium where Dai Xianrong predominantly played?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Whiich genus has more species, Dracula or Pistacia?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What medieval fortress is believed to refer to a chapel at the bottom of a hill?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which dog is considered a giant dog breed, the  Leonberger or the Basset Hound?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which conference is the team for which Justin Bannan played college football currently a member of?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What adorns the archaeological artefact excavated by Thomas Bateman on 3 May 1848?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "At what university can the building that served as the fictional household that includes Gomez and Morticia be found?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Alternative facts is a phrase use by this U.S. Counselor to the President born in what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who has released more solo albums, Nick Carter or Brady Seals?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what year was the most famous statute at Po Lin Monastery built?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What fellow Turkish footballer did Darko Kova\u010devi\u0107 form an offensive partnership with during his tenure at Real Sociedad?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What software company developed Fade to black and it's 1992 Sequel, Flashback? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which documentary film was released first Tar Creek or Volcanic Sprint?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which identifier: transwomen, cis women,or genderqueer, is a combination of masculinity and femininity or neither in gender expression? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Ran Paul presidential campaign, 2016 event was held at a hotel on what river?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How many children's books has the writer of the sitcom Maid Marian and her Merry Men written ? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who did President Franklin Roosevelt appoint that was responsible to transmit votes of the Electoral College to Congress?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "ElvenQuest is a comic fantasy broadcast that stars what English actress who is the wife of Lord Frederick Windsor, and who is formally referred to as what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What year did the musical premiere that was based on the 2007 Irish romantic musical film of the same name?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Grimsby Minster is located in which English Province?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where did Mark Pavelich win Gold in 1980?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which areas of the United States were still able to deny sames sex marriages after the case in which Edith \"Edie\" Windsor was the main plaintiff?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which technique did the director at Pzena Investment Management outline?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where is the company, which designed the Glomar Challenger, based?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What profession did Willi Forst and Elmer Clifton share?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Was the Metropolitan Life Insurance Company Tower [Met Life Tower] or the 15 Hudson Yards building designed by the firm of Napoleon LeBrun & Sons?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which region of Austria means 'Estate of the Salt Chamber' and covers the village of Obertraun, a popular destination for skiing and snowboarding in the winter?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Whose death dramatized in a stage play helped end the death penalty in Australia?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are Rob Parissi and Robert Pollard both musicians",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the happiest town Sarasota county Florida?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was a Christian Evangelist and US prisoner of war survivor that was the basis for a film directed by Angelina Jolie?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are both Dafeng District and Dazhou located in the same province?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Opel once owned and manufactured the brand known under one shared name in New Zealand and Australia, and that brand is now a subsidiary of what company?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the title of the debut studio album by Weezer which contained the hit Buddy Holly and Undone \u2013 The Sweater Song?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where is the 1999 British comedy-drama film starring Jimi Mistry set?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "the head football coach at the University of Houston from 2007 to 2011, is the current team coach of which football team ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How many kilometers did Sabrina Mockenhaupt run when she set her best record?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What profeesion do Giacomo Benvenuti and Claudio Monteverdi share?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which dog is native to France, the Basset Bleu de Gascogne or the Bulldog?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "\"Twenty Two\" is an episode of the series \"The Twilight Zone.\" adapted from an anecdote by a publisher who made appearance in what panel game show?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where do the team that John Grant joined after the 1972 World Cup now play their games ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Was it  Ishmael Reed or Joseph Campbell who said Follow your bliss?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who collaborated with Rihanna on the album release \"Numb\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "No Smoking is a film loosely based upon the short story Quitters, Inc., which of three stories that are connected by the presence of what animal? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the occupation of the Miami Dolphins owner's wife?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "H Pistorius & Co is part of the reason for the wealth of the family that includes which South African sprinter?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How many episodes were there of the TV series where Julianna Margulies had the role of Carol Hathaway ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What year was the bank famously opposed by Brendan Bracken for co-operation with Adolf Hitler originally established?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Sanders-Brown Center on Aging was funded by a grant from a businessman known for what restaurant chain?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who founded gaming company which owns and operates the Red Rock Resort?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Andrei Ivanovich Gorchakov commanded the 1st Infanty Corps in what major engagement of the Napoleonic Wars?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is Colin Kaepernick and what is his preferred nickname?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which was published first, Take It Easy or Personal Preference?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are Catasetum and Origanum in the same family?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which Sudanese-born Australian professional basketball player for the Milwaukee Bucks exemplifies that players do not have to play at least a year in college basketball before being drafted into the NBA?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the name of the physician who studied the cause of the 1854 Broad Street cholera outbreak in London, England?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "2002\u201303 Inter Milan season was marked by the arrival of what retired Argentine footballer?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Ocean Springs School District is located in the city in what Mississippi county?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was need in order to diverge from the chinese ritual uniting spouses by pre-arrangement between families?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The world's greatest Super-Heroes anthology showcased one of four superheroes known for speaking the phrase \"SHAZAM\", what was their name?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Wojtek Wolski played for what team based in the Miami metropolitan area?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In addition to Jennifer Tilly, Brian Backer, Sally Kellerman, Nedra Volz, Clara Peller, Wendie Jo Sperber and the actor born on June 22 1958 in Wilmette, Illinois, who else starred in Moving Violations?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was born earlier, Garry Marshall or Leni Riefenstahl?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What performing traditionally from the longest continental mountain range in the world, are Grupo Aymara famous for?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Nikolay Mitrofanovich Krylov and Anatoly Fomenko both held what academic title?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What type of profession does Chris Jericho and Gary Barlow have in common?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Sudha Kheterpal who is  musician best know as the percussionist in Faithless has played with what singer who is recognized at the highest-selling Australian artist of all time by the Australian Recording industry Association?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In the \"Star Trek\" franchise, DeForest Kelley portrayed a character aboard which starship? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the name of the statue whose replica have been created in many landmarks world-wide such as near Pont de Grenelle in Paris?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which California band, whose debut album Adrenaline appeared in 1995, has been referred to as \"the Radiohead of metal\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which  Australian singer-songwriter wrote  Cold Hard Bitch",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What were the nations after 1722 that composed a culture that was extensively studied by William N. Fenton?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are Harry Everett Smith and Vladimir Danilevich both from Russia?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are Yoo-hoo and Faygo both carbonated drinks?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The term snake eyes is used in a particular casino game that uses what game pieces?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What member from The Clinch Mountain Boys plays at the Huck Finn Jubilee Bluegrass Music Festival?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is special about the wristwatches that Favre-Leuba manufactures?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What city did the musician whose debut album shares its title with the 1959 Alfred Hitchcock hail from?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Double Jeopardy is a 1999 film starring an American political activist best known for an ongoing acting career spanning how long?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Arbie Orenstein is known as a scholar on the life of what composer internationally regarded as France's greatest living composer? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Anthony Avent played basketball fo a High School that is located in a city approcimately 8 mi west of where?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which year and which conference was the 14th season for this conference as part of the NCAA Division that the Colorado Buffaloes played in with a record of 2-6 in conference play?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what directional area of Argentia would one find the Rio Hondo Department?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which New Jersey-based manufacturer of suitcases and bags for travel is located in the Shops at Columbus Circle in New York City?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Jamie Harris is best known for his role as The Hook-Handed Man in a movie directed by who ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Out of two American colonies that had a series of skirmishes and raids between 1701 and 1765 at the disputed border, which British proprietary colony became a royal colony on the northeast coast of North America?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which Dutch media tycoon transferred all of its media activities to Talpa Holding?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Imran Khan has worked in what type of films refering to the Pashto Language film industry?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the title of the 1979 film adaptation of William Shakespeare's play in which the English poet, actor, political activist and dramatist who wrote wrote a number of book-length polemical poems such as \"Autogeddon\", \"Falling for a Dolphin\" and \"Whale Nation\" played a main character?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Lex Antonia nullified the dictatorial laws set up by which Roman general?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Johnny Edwards and Ian Anderson are singers, who had joined the greater number of bands?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "For which Thomas Rickman film did Sissy Spacek win an Academy Award for Best Actress?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what city did Charlie Spiller play college football?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When did the UVF Mid-Ulster Brigade conducted the attack The Miami Showband killings?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The attraction at universal studios that was based on \"The Tonight Show\" replaced an attraction that replaced an attraction based on what movie?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The 1989 Batman film was produced by Jon Peters and a man that is the CEO of what company?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What entity with the capital city of Ciudad Victoria is a home to the northern grasshopper mouse?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is the manufacturer of the plane that shot down Jameel Sayhood?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Erik Marcisak was named one of Top Ten \"Comedy Best Bets\" by a brand with special focus on what ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Orson Welles made Filming the Trial, a making-of film of the production of The Trial, which was originally filmed where?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the international football competition for women that Liu Ailing played in the 1991,1995, 1999 editions?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was a pianist, Maro Ajemian or Richard C. Sarafian?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "\"Look At Us Now\" is a song by American DJs based in which city ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Wiener Werkst\u00e4tte Style was part of the movement that took place during what eras?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Frank Lamson-Scribner was adopted by a family near which town in Kennebec County?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is younger, Keisuke Kuwata or Moya Brennan?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Could you read both Bicycling and National Review",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "ho is the brother of the American transgender actor known for his work on MTV's \"Faking It?\"",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Brandy was handpicked by a producer that herself had been recognized by the \"Guinness World Records\" for what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Loch Shiel is part of the river that drains into the sea near the castle that sits west of what town?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are David Schwimmer and James Wan in the same industry?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Tony Leung Ka-fai is a four time winner of the award that has been on offer since what month?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Lost Someone was written by James Brown and an American R&B/soul singer who began his career in 1952 as a member of what gospel group?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Lost in Time includes the theme song for a French/Japanese anime series that was created by who?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where operation Operation Dragoon and Battle of Cold Harbor fought during to different wars?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "E! Hollywood Hold'em was hosted by a poker player of what nationality?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Along side Thomas Alan, which singer's first three albums were recorded at The Boarding House?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which plane has seen more combat, the Northrop F-15 Reporter or the Northrop P-61 Black Widow?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which case came first, Craig v. Boren or United States v. Paramount Pictures, Inc.?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What WB supernatrual drama series was Jawbreaker star Rose Mcgowan best known for being in?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which space mission did the man, in which the Onizuka Prop Wash Award is named after, perish?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who graduated from The SC Bastia Reserves and Academy  and was born 9 September 1987?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was the team president of the 2012 Cleveland Browns?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": " The Nike Hoop Summit has had many current NBA players as former participants, including what German player from the Dallas Mavericks?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which American comedian starred in the original cast of Saturday Night Live and played Stan Winters in the sitcom Martin?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The 19 high-rise commercial buildings covering 22 acres between 48th and 51st Streets in New York City feature which style of architecture?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When did the character on Grey's Anatomy, played by the same actor who portrayed Rev James Lawson in \"Lee Daniel's The Butler\", debut?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who did the Doncaster Belles play in the 1994 FA Women's Cup Final held at Glanford Park? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "who was born first Pierre Wom\u00e9 or Christian Poulsen ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What type of auto racing, performed on clay or dirt surfaced oval tracks, is run for the Australian Street Stock Championship? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which one of Ricardo Rodr\u00edguez Sa\u00e1's relatives would become governor from 1983 to 2001?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What South Korean girl group formed by S.M. Entertainment recorded the Korean language song Lion Heart?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What band is a tribute to a band originally known as the Grizzly River Boys?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Blues to the Bush is an album by The Who that can still be found on what e-commerce platform that was founded in 1995?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When did the tour begin for the album Taylor Swift released on October 22, 2012?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the population of the town that gets it's water supply from Canobie Lake?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What Pakistani actor and writer from Islamabad helped write for the 2012 Pakistani comedy drama sitcom, \"Coke Kahani\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was the opponent of the Republican of Indenosia when Nugroho Notosusanto served as a member of the Student Army",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Jos\u00e9 Baviera starred in the 1962 film by the filmmaker who worked in what countries?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How many people did the South Korean spree killer which NICS Improvement Amendments Act of 2007 enabaled to buy firearm killed in 2007",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When did the husband of William Roper bornj who was also the father of  Margaret Roper?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which magazine ran for only one year, Kilobaud Microcomputing or Humbug?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which U.S. State contains tropical wetlands and Diamondback Airboats?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How long is the river for which Frenchmans Creek is a tributary?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In \"Bon Cop, Bad Cop\", Canadian actor Rick Howland played the role of Harry Buttman (a parody of Gary Beltman), who is the current commissioner of what National sports league? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is the father of the king that defeated the The forces of Olaf and Constantine",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which band included more previously-known figures when it was formed, !!! or Puddle of Mudd?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What Hindi thriller directed by Deepak SHivdasani features choreography by Phulwa Khamkar?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Pandora- The World of Avatar includes a ride that allows guest to take flight on what animal?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What kind of song did Alexander Grant produce for Eminem?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Insomniac Events is part of a partnership with a club founded by an investor of what heritage?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who holds the world record for jumping over 6 buses and appeared on the British television series \"The Jump\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the nationality of the actor who costarred with Joe Chen and Jia Nailiang in \"Destined to Love You\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "John Hatzistergos was a Member of a council that has how many members ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which radioshow did Frank Sinatra appear on the year he won an Academy Award?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where does the descendant of the Red Setter originate? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what country was Cudjoe's leader born?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What video game character did the voice actress in the animated film Alpha and Omega voice?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What type of bank organization is Pondicherry Gramin Bank that it operates in different States of India?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is older, James Kerwin or Paul Verhoeven?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the chemical formula of the organic material that clementines have less of than oranges?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "At what summer festival might you find music by Bakermat?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Between two bands, Mastodon and Hole, which one has more members?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was the author of the book \"The Coming Global Superstorm\" and was also the host of the radio program \"Coast to Coast AM?\" ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What genre of music was played by both Tappi T\u00edkarrass and INXS?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is older Charles R. Black Jr. or Paul Manafort?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When was the female character that on June 9, 2015 was promoted to a series regular first introduced on \"Once Upon a Time\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is the player that is Dutch who was the head of the Arsenal Football Club?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What location under Charing Cross railway station did G-A-Y move to?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When did the author of \"Computing Machinery and Intelligence\" die?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What word or phrase is found in both the history of Belgium and cockfighting?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Chandgi Ram won a gold medal in 1970 in a continental multi-sport event held at which city ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What 2014 Ottawa Fury goalkeeper coach missed a shot deflected off Ronnie Whelan in the 1987 Football League Cup Final?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which of the following bands is considered \"one of the most accomplished and creative Christian bands of the '90s\": Poor Old Lu or Shudder to Think?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the nationality of the man who finished second for ART Grand Pix in the 2016 Baku GP2 Series round?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Susanna Thompson appeared in the courtroom drama film Ghosts of Mississippi, directed by who?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Arnold Richards was the former chair of what organization that is a member of the Center for Jewish History?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Mount Gunnison was named in honor of an explorer born in what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What insurance company sponsored the Curling Skins Game in 2014?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was the singer of the song that held the record for most weeks spent at number one by a female country artist until it was surpassed by the the one named second best song of 2012 by \"Rolling Stone Magazine\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": " \"One Less Set of Footsteps\" is a song written and performed by a singer born in which year ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are Ferocactus and Silene both types of plant?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Works by Hanna Leena Kristiina Varis are part of a collection in a museum that houses approximately 65,000 what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How did the name of Peter Gifford's rock band (1980-1987) come to be chosen?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the name of the company that produced  the first practical jet aircraft that first flew on 27 August 1939?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which bi-weekly publication ranked Schreiber Foods as number 81 in 2016.",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Is Carnegie Hall Tower located in the same city as Staten Island?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "3 Arts Entertainment had at least one coalition with what streaming service, with its 13-episode, 2015 season of a Tina Fey created sitcom?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was older, Andrew Preston or James Taylor?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which American film director hosted the 18th Independent Spirit Awards in 2002?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What ethnicity is this American professional baseball right fielder born in 1987 play, who graduated from Nova Southeastern University?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The eighth-longest rollercoaster in the world is located in what theme park?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which has more species, Clianthus or Callicoma?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the name of the 1988 film starring Gene Bervoets that was based on the Dutch to English translated novel, \"The Vanishing\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the origin of the National Space Olympiad and Kalpana Chawla ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which shore does the castle, which Sir James Montgomery, 4th Baronet is the tenth laird of, stand?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What type of mansion was built for the founder of the company marketed the oil engine under the \"Hornsby-Akroyd\" name?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which airport Pago Pago International Airport or Chattanooga Metropolitan Airport is closer to the central business district of their local community ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "hree Men on a Horse is a play by a playwright born in which year ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What brother of Stanley Alan Van Gundy is a color commentator for ESPN?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Human Shadow Etched in Stone is an exhibition to showcase which bombing that killed 129,000 people in 1945?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Finna Get Loose is a song by Puff Daddy and what American rapper who is also a record and film producer?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Here's Little Richard is a debut album containing a song written by Little Richard, Enotris Johnson and who else?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "TACA Airlines, is an airline owned by a conglomerate owned by who ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What characteristic meaning it's transferable between species, does monkeypox and cowpox virus both share?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are Florida Atlantic University and Cleveland State University both colleges in the US?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What film, based on the book \u201cBoston Strong\u201d, featured the actress Alex McKenna?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Steve Denton and Albert Costa are both tennis players, which one began playing at the age if five?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Panic! at the Disco released their 5th studio album on what date?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What multinational networking and telecommunications equipment and services company used to occupy the space in Umea, Sweden that is now occupied by Minerva Gymnasium?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which contest did the singer of the song Mama's Song win ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What country can the scopula nucleata be found in?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who lived longer, Alejandro Jodorowsky or Philip Saville?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Two of the pharmacy schools are Midway College School of Pharmacy and which first for-profit college or university to receive the Southern Association of Colleges and Schools?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Both Bishop Carroll Catholic High School and Kapaun Mt. Carmel Catholic High School are located in which city in Kansas?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which band was formed first, Wire or Young the Giant?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "National Strategy for Homeland Security was a response to the events that partially took place at what Arlington County, Virginia location?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In which film did Emilio Estevez star in in the same year as Nightmares",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which film was released first, The Celluloid Closet or Station to Station?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What company started the urban complex development that included the highrise building, The Harmon?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Author David Chanoff has collaborated with a U.S. Navy admiral who served as the ambassador to the United Kingdom under which President?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What 2003 Christmas-themed romantic comedy did Gregor Fisher have a role in?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The vynil collectible Vinylmation are all shaped with the body of a cartoon character created by who ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where in the traditional West Riding of Lindsey is the Trolleybus Museum Located?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was the winner of the European Cup the year that 39 people were killed?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Nicholas Medforth-Mills is a grandson to a king who was born on what day and year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who starred in My Dog Skip and Malcolm in the Middle?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What year did the director of \"Madadayo\" die?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How many Golden Globe Awards did the artist who published the photo book \"In Mexico\" win?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Roger Stuart Woolhouse is a biographer of a philosopher commonly known as what ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What Mexican singer released the song Todos Me Miran?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Were Dee Dee Ramone and Ben Weasel ever in the same band?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": " The 2011\u201312 Houston Rockets season began with the drafting of the player who now plays for what team?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who did the actor that plays Sean Tully defeat in a dancing contest?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When did the the Antonine who was known as the third of the five good emperors live?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which 8-year old star of an epistolary novel turned musical by Alice Walker also voiced Frankie Greene in a Disney series?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which is the Oil Capital of China, Chaoyang District, Shantou, or Daqing?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which filmmaker is considered a pioneer, Herschell Gordon Lewis or Leah Meyerhoff?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the nationality of the actor playing a Russian hostage taker in \"Hostage for a Day\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which is a record producer, Zach Bogosian or Daron Malakian?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Robert Earl Holding owned an oil company that was originally founded by who?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What theory was advanced by the author of Progress in Optics?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the population of the city at which the transmitter of WLLZ-LP was placed? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which is a post-punk band, Boy Hits Car or The The?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who created the show that featured Triumph the Insult Comic Dog?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Did Minersville School District v. Gobitis and Gravel v. United States occur in the same decade?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "which league is the 121th season of top-tier competitive football in Switzerland which Ulrich Forte coach FC Z\u00fcrich in the league ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is older, Lucy Gichuhi or Bob Day?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What state was the dissenter in Kessler v. Treat from?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Combs\u2013Hehl Bridge is a twin span single pier cantilever bridge carrying an intersate loop that encloses and area of over how many acres? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Cleveland Thyagaraja Festival is a type of festival that honors a type of music in what language?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What singer who was the seventh place finalist on the 7th season of American Idol first recorded the song Like My Mother Does",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What mixed martial arts promotion that was purchased by the Ultimate Fighting Championship in 2001 used to feature Nate Diaz as a competitor?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Prince Michael of Prussia was a member of the house that arose in what town in the 11th century?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What airline was a monopoly with a hub at Sheremetyevo International Airport?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which host of Straight to the Heart is an American actress and producer?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Maximilian B\u00fcsser was the CEO of a company that produced timepieces from which country?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where does the city situated where Kellyville Ridge is located?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the name of the 1996 loose adaptation of William Shakespeare's \"Romeo & Juliet\" written by James Gunn?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is younger, Martin Luther King III or his brother Dexter?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How are Ceephax Acid Crew  and Squarepusher's music similar?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Renamed in 2014, what was the vehicle offered as a prize to contestants on the first season of The Amazing Race Canada?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What year was the album featuring the trio made up of Posdnuos, Dave, and Maseo, alongside Lebanese-Syrian rapper Eslam Jawaad release?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what town does the one-time star of \"And There's More\" now live?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Was the film Splash released before the film Tangled? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the name of the number-one single featuring the winner of Celebrity Apprentice 3?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Phil Urban CEO of Mitchells & Bustlers manages what in the United Kingdom?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where was the set for the winner of the WD Weatherford Award in 1998?  ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What country does Hatton Hill and Hatton Castle, Angus have in common?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Lucy Maud Montgomery novel about the character Anne Shirley was first translated into Japanese by what woman?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the nickname of Judy Lewis's father?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What league did was the team that played home games at Holman Stadium belong to?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What other female rappers appeared Brittany Nicole Carpentero in the official remix to My Chick Bad?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which college is located in the United States, University of Delaware of University of Debrecen?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When would be the professional wrestling video game release in which Mark Henry will appear as \"legend\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What nationality is the sport club that the current coach of Werder Bremen played professionally for?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the seventh book of the Hebrew and Christina bible and also has Quran references to the river drinking experience?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What Danish drama thriller which takes place in both Denmark and Africa was produced by Sisse Graum J\u00f8rgensen?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the 58th quadrennial American presidential election held after the 2016 Michigan Democratic primary?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How long is the road the A12 is a part of?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which magazine is focused more on the adult demographic, Jack and Jill or Paper?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What election was Senator Harry Reid at in Nevada?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What animal does Mahratta Greyhound and Tibetan Spaniel have in common?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which author found inspiration in their career prior to writing, Hart Crane or John le Carr\u00e9?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What role did Anne Innes-Ker, Duchess of Roxburghe (daughter of the 7th Duke of Marlborough) serve to Queen Victoria?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Lady Elizabeth Delm\u00e9 and Her Children (1779) is a portrait given to the National Gallery of Art in 1937, which is located in which state?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was the base where the 413th Flight Test Group is stationed named after?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who recorded the song written by Johnny Russell",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who wrote the jukebox musical depicting the recording session between the \"King of Rock and Roll\" and 3 other famous musicians?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When Budweiser created a dog mascot to promote Bud Light in the 1980s, which rival brewer (with its own character Alex the Dog) were they competing with?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The debut album came out in 1988 but what year did the song \"She's My Baby\" come out in?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the title of the man who Sir Thomas Hungerford made his fortune working as a steward to?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which one between Milium and Eucommia lives more widely spread across the world?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is still with the group that covered \"Leather-Winged Bat\" in 1969?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What type of diary did one of the founders of the John Bishop Memorial Hospital in Srinagar write?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Jennifer Ventimilia co-wrote the teleplay of the episode that was part of which season of The Simpsons?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where was the 2015 MSA Formula Championship, a multi-event, Formula 4 open-wheel single seater motor racing championship held?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What actor, who passed away in 1942 was also the producer of the stage version of the 1940 spy film which stars Boris Karloff and Margaret Lindsay?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What revolutionary group was writer Mary Williams raised by before being adopted by director of the Peace and Justice Resource Center in Los Angeles County Tom Hayden?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What Congressional district featured Republican nomiee Willie Vaden in 2004, 2006, and 2008?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What Danish sports club based in Copenhagen  did striker S\u00f8ren Lindsted start his career at?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The first person to reach both poles named a glacier after which person? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What county was Matt Herr raised in?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "University of Wisconsin\u2013Madison and University of Notre Dame are both what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was born in August and was a professor?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "FC Barcelona ambassador Ronaldinho won what French award in addition to FIFA World Player of the Year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When was the son of Kingsley Amis born ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Inserra Supermarkets is a supermarket chain that is a member of what cooperative that was founded in 1946 and based in Keasbey, New Jersey?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was the director of the 2007 American action film starring the actress, professionally known as Maggie Q.?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What team did Travis Cortez Mays play on which currently compete in the Big 12 Conference.?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was the film which was Kim Dae-woo's directing debut about ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Ambrose Mendy has managed and/or advised a British professional boxer that as of July 2017 is ranked the world's seventh best super middleweight by who?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What Province in Sicily, founded in the eighth century B.C., was the birthplace of the famous historical mathematician Archimedes?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Is the Metropolitan Tower or 750 7th Avenue Skyscaper taller?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What major landform lended its name to both the Blue Ridge Music Center, and American's longest linear park?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What federal agency was founded in 1935 and maintains a list of wanted persons?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was the main vocal of \"Set the Fire to the Third Bar\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the county seat of the county where East Lempster, New Hampshire is located?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Easter Airways' head office is located at which airport owned by Manchester Airports Group?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Voyage is a wooden roller coaster located at a theme park divided into how many sections ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What Dutch painter specialized in domestic interior scenes of middle class life and has a painting of a young woman dressed in a yellow shawl in the Louvre, Paris?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Florida Atlantic Owls team represents a school classified by the Carnegie Foundation as what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What school was the actress who appeared with Michelle Williams in the last play by Russian playwright Anton Chekhov attending when she was signed on for a talent holding deal?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which happened first? The scarp was first imaged by Voyager 2 or The play All's Well That Ends Well was written by William Shakespeare",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What do Wrigley Park and social networks have in common?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are Prol\u00f3gica CP-400 and Atari ST both personal computers?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what year was the county in which Kentucky's 20th-largest city is located founded?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the first comic book written by the writer who had a series developed into a 2010 film with Bruce Willis and Morgan Freeman?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Jay-Z released his 1996 Rolling Stone-rated \"500 Greatest\" album on which record labels?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Jonathan Groff was 30 years old when he appeared in a historical musical written by whom?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the name of the storm that was the fifth hurricane of the season where Miami, Florida became the new National Hurricane Center?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the name of the daughter of the Irish entertainer in the girl band Maxi, Dick and Twink?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which Avalanche happened first, Rigopiano avalanche or 1999 Galt\u00fcr avalanche ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what year did the Guild of Music Supervisors Awards recognize a British-American romantic drama film based on the 1952 romance novel \"The Price of Salt\" starring Cate Blanchett?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "At which university does the biographer of John Clare teach English Literature?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What station is 3 miles away from the railway station that was used in the film \"Brief Encounter\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What foundation do scholars give for the likelihood of collaboration on a William Shakespeare Play written between 1588 and 1593?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Daniel Greene has created what for clients including sportscaster Bryant Gumbel, Eleanor Roosevelt, William Randolph Hearst and Dave Thomas, the founder of Wendy's?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was born first, Ana\u00efs Lameche or Darren Hayes?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which plant genus has a longer common name, Myrtus or Eustoma?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the electric racing series British race car driver Alex Lynn drives for and is owned by Virgin Group?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was the writer of the graphic novel upon which the 2003 American superhero film, directed by Bryan Singer, is based?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When is the American politician and attorney which Thomas J. Connolly an for Governor of Maine in 1998 against born ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where does the team coached by someone with the nickname \"Coach K\" play?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Red Queen's Race is a science fiction short story that uses the Red Queen's race from a novel by Lewis Carroll that is the sequel to what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "One of the actors in the film Dhruva Natchathiram was awarded an Honorary Doctorate by the People's University of Milan in what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which magazine was created first, Macworld or Soaps In Depth?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the formal name for the sporting facility located in Coos County, New Hampshire?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Matt Doheny lost his primary race to what current youngest woman ever elected to Congress?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which voice actor plays the voice of the cartoon character that is most famous for his semi-intelligible speech and his mischievous and temperamental personality?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "\"Heartbreak Hurricane\" was recorded by which country artist, that also goes by the name Ricky Skaggs?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The father of Manning Marius Kimmel retired from the Navy in what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Out of Control Tour began in an indoor arena above what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Kristine Moore Gebbie is a professor at a university founded in what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the other occupation of this Indian film actress who appeared in \"Hate Story 2\" (2014) and \"Saadi Love Story?\"",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "William Sidney Sid Hatfield was the Police Chief of Matewan, West Virginia during a shootout between local coal miners and the Baldwin-Felts Detective Agency that is referred to as what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who produced the 2004 major release sequel of Shrek 2?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Eleventh Dream Day and The Shins are both rock bands from where?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Richard Burton became involved in a mayoral campaign for a politician that previously served as the Mayor of Baltimore during what time period?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which number in the Final Fantasy series was created by Hiroyuki Ito and allows the player control of the artificial intelligence of the characters in battle?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which game was released first, Icehouse pieces or Kill Doctor Lucky?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Kurt Fuller from Stockton, CA appeared in which American Detective Comedy Drama television series created by Steve Franks?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What retailer in ABQ Uptown is headquarted in Poole, Dorset, United Kingdom?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Adam Fox was one of the first members of an informal literary discussion group associated with what University?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was involved in observing the natural progression of untreated syphilis in rural African-American men in Alabama?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What relationship does Fred Gehrke have to the 23rd overall pick in the 2010 Major League Baseball Draft?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When was one of the fresco mural, one of the greatest treasures of the Hood Museum of Art, painted?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What type of games are both Sector 41 and Enchanted Forest?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Between Danny Elfman and Fran Healy who has worked in more diverse fields?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are both Jack and Coke and Clover Club Cocktail cocktails?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "where was class of warships which ARA \"Sarand\u00ed\" is its fourth and last ship built ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When did Peter Capaldi play the role of Mr. Curry in Paddington 2?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The large subunit and small subunit that use two types of RNA are major components that make up what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What type of profession do Dave Pirner and Les McKeown both have?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Ms. Knope Goes to Washington is the fifth season premiere of an American political comedy television sitcom starring Amy Poehler as who?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Were both Eugene Dynkin and Vladimir Voevodsky mathematicians from Russia?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was born first, Maurice Ravel or William Walton?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What team plays within the Big 12 Conference and has Kevin Bookout playing for them?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Aviation Hall of Fame and Museum of New Jersey is located at the airport in which New Jersey county?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the name of this suburb within the Central Coast Council local government area, where Tessa, of Microwave Jenny, grew up?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who has released more studio albums, Candlelight Red or Motion City Soundtrack?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "G\u00fcl Train is a project of which Eurasian political and economic intergovernmental organization?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Dunstan is an electoral district that includes which suburb of Adelaide in the City of Norwood Payneham St Peters?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What genre does Orkworld and John Wick have in common?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What summit is located in the county who's county seat is Helena?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are the mountains known as Trivor and The Crown both found in Asia?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where is the county seat for people living in Henderson Point, Mississippi?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which mountain is higher, Tongshanjiabu or Himalchuli?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are both Grapico and Izze artificially flavored soft drinks?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Joan Baez's hit recording from Quad Studios Nashville originally featured lead vocals from what member of The Band?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Is Ordos City more west than Yangzhong?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the Volvo S70 essentially modeled after and was the first all wheel drive Volvo?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which artist has worked with King Crimson and also released a solo album in 2011?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What sort of activist is the author of The Irrational Atheist? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How many Grammy Award nominations has the musician who Graham Maby has recorded and toured with since his first album, and whose first release was \"Is She Really Going Out with Him\", won?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which \"Official Ireland\" group comprises about  78.3% of the population of Ireland? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which is a choreographer, Yuen Woo-ping or Basil Dean?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "James Fowle Baldwin helped design a historic railroad that operated in Massachusetts and whose line later operated as part of what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Jeff Bhasker won a Grammy Award for a song that was the fourth single from what studio album?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Distribution of Industry act was passed by a man who was prime minister when? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Party Machine with Nia Peeples was executive produced by the talk show host whose show originally ran during what time period?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Name three common things that are used in playing Monopoly and King of Tokyo?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What 2016 film stars actor Xavier Samuel and an actress who portrayed Vasilisa Dragomir in the film \"Vampire Academy\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "TimeCamp enables what type of commercial documents from a seller to a buyer?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": " Ruffin Horne McNeill Jr. an American football coach was named interim head coach after the suspension of a head coach that lead the team to winning seasons in every year of his what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the best known novel from the author of \"Laura Warholic\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who preceded the man who had the Nassak Diamond cut and placed into the handle of his sword?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are  Chrysalis and Look both women's magazines?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What game did the team with an 11-1 regular season record play in for the BCS title game?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Margaret Wilson and Edna St. Vincent Millay have both been given what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Was Suzanne Chun Oakland a member of the upper of lower chamber of the Hawaii State Legislature?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What league, which is also known as the Barclays Premier League, had its start date pushed back?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What \"sport\" involving animals dates all the way back to the Tang Dynasty and continued to the beginning of the 19th century?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The third emperor in the Year of the Four Emperors had how many wives? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What title did the author of Det norske Theater's first production hold ? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Orson Scott Card first published his short story \"Killing Children\" in this American science-fiction magazine whose first issue was published when?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Celebrity Fifteen to One has had more than one appearance by an English writer and former Conservative Member of what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What show was Elena Shaddow in that was written by a relative of Richard Rodgers?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Martin Patterson \"Pat\" Hingle was a close friend of an actor who achieved success in what Western TV series? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What product is being built at a 107,000 acre industrial park for Tesla Motors?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which was the last of four Alien films to feature Sigourney Weaver?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What group did the 253 West 125th Street-contest winner Spyder Turner sing back up for?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How many times did the man who coached the 1986-87 UNLV Runnin' Rebels fail to win 20 games in a season?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the main nickname of the professional association football club where Ewan Fenton spent thirteen seasons?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was the architect of a Dutch museum dedicated to the arts and history in Amsterdam, located at the Museum Square?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Ra\u00fal Arellano played for Mexico in which football tournament in 1954?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What university did Bill Daly graduate that Gary Bettman also graduated from?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When was Aimee Carrero's depiction of Angie first aired?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Dr. Saleha Mahmood Abedin's daughter was born in what year ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Does Frank Pepe Pizzeria Napoletana or Donatos Pizza have more locations?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Do both Lee Tamahori and Robert Redford work as a director?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In which city have Gary Ayres and Neil Craig both been head coach of the Crows?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the 2010 census population of the county where Wildcat Brook flows through Jackson?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What abbey, founded in 598, was Clarembald a monk at?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Double Dragon starred the actor and martial artist who played which character in \"Brotherhood of the Wolf\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Bethpage State Parkway begins with an interchange at which Long Island-based limited access highway?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "when was Quiet in Heaven/Song of Liberty recorded?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Southeastern Illinois College offers an undergraduate academic degree considered to be greater level of education than what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Matthew Wright was selected with pick #33 in the AFL draft that took place during what date in 2009?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The English company behind the British Rail Class D1/3 locomotive, Ruston & Hornsby is now a part of what German company?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Electronic Attack Squadron 138 is a type of which American carrier-based electronic warfare aircraft, a specialized version of the two-seat F/A-18F Super Hornet?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which maker of Robatumumab is American?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Ladislav Matejka's Michigan Slavic Publications has published volumes by which historian considered to be the founder of morphophonology?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When did the first bank come into existence that is part of an organization that serves rural areas of India with basic banking and financial services?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the name of the vocalist who collaborated with the rap duo who won the 2002 Grammy Award for Best Rap Performance by a Duo or Group?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What 1996 book was written by the founder of Media Matter for America?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the relationship of Yeshahework Yilma's mother to the man who was Ethiopia's emperor from 1930 to 1974? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Bordan Tkachuk was the CEO of a company that provides what sort of products?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What notable radio personality was born in North Bend, Oregon?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The 1st Alabama Siege Artillery Unit were massacred by Confederate troops under whose command?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are Euptelea and Muehlenbeckia both genuses?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The  Actaea genus is native to what continent that the Onoclea genus is not?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which was fought earlier in our nation's history, the Seven Days Battles or the Battle of Manila?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which American popular music and country music singer recorded J. D. Souther song ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which fictional MI6 agent is a fictional character created by the British journalist and novelist Ian Fleming in 1952?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was the military commander of the last active ruler of the Ptolemaic Kingdom of Egypt?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which of the starting pitchers for Team USA in the Baseball at the 2000 Summer Olympics was not born August 29, 1977?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "J. Searle Dawley and Ken Annakin were both directors of what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are Portland International Airport and Gerald R. Ford International Airport both located in Oregon?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The primary jockey of Binocular was Champion Jockey how many consecutive times?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who has won more Grand Slam women's doubles titles, Lisa Raymond or Liezel Huber?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Las Vegas Festival Grounds is north of the hotel that is owned by which company?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How many records did the singer who sang \"Four Seasons of Love\" sell worldwide?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the name of the Australian specialist electronic music magazine that features avant-rock, experimental sound art, and experimental hip hop?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Tom Araya and Marcus Mumford were both what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which southern Georgia city features the Blazers college athletic teams?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Ralf D. Bode is best known for his work on a film starring who as Loretta?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What Cayman Islands registered Mandarin and Cantonese-language television broadcaster launched Phoenix Hong Kong Channel on 28 March 2011?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Graham Linehan was the creator of the Ash Atalla-produced sitcom for what UK channel?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Radio On: A Listener's Diary is the first book by an author that voiced what character in the film \"The Incredibles\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which author wrote about a woman captured by the Symbionese Liberation Army?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what year did the actor who starred in the TV Land original series \"The Soul Man\" host the Black Movie Awards?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which park is further south within Spain, Picos de Europa National Park or Timanfaya National Park?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are Gael and Fitness published in the same country?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the official religion of the lands of the husband of Dorothea of Denmark, Duchess of Prussia?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which board game was published most recently, Pirate's Cove or Catan?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What community in Imperial County, California is partly named after a species of tree that is native to North America, Europe, and western Asia?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Ferdinand Zvonimir von Habsburg is the eldest son of the head of which House",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How high on the US \"Billboard\" Hot 100 chart did Dan Smith's song reach in 2013?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what year was the mathematician husband of Anneli Cahn Lax born?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was born first, Samantha Cristoforetti or Jean-Loup Chr\u00e9tien",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which of these artists is older, Warrel Dane or Roy Khan?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What film is a sequel to a German romantic fantasy film featuring Bruno Ganz and Solveig Dommartin?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which sport has been played at the BayArena in Leverkusen, Germany, since 1958?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The rifle cartridge created by the Swedish was also shared by which other nation?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The physicist who is responsible for identifying the Rabi cycle won what award?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "St Mary's School in Pune, India was run for over 100 years by what organization started by the Reverend William John Butler?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Tryon D. Lewis is a lawyer from Odessa, Texas which is located in what county?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Bobby Godsell held a senior position in which global company that was formed in 2004?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What kind of musician does Robert Plant discography and John Bonham have in common?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The subject of McGinniss' 1983 book \"Fatal Vision\" was convicted of murder in what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the name of a land where Maria Anna of Spain's husband was king?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Los Angeles Historic-Cultural Monument (No. 139) hosted an event by what organization on Oct 12, 1991?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Do the drinks Gibson and Zurracapote both contain gin?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who directed the movie for which Jason O'Bryan was nominated for a grammy for best soundtrack?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which major Australian city is close to the Pelican Point Power Station on the Lefevre Peninsula?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who wrote the film, other than The Good Shepherd, in which Leonard Logsdail appeared as a tailor ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Hong Kong Museum of Coastal Defence is located on an island with a population of what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Is Dappy or Tobias Sammet German? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Anna Aglatova made her first public appearance at which Moscow theatre in 2005?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What film directed by David Greene did Merrell Jackson play an apostle in?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Louis XVI style sought to evoke the artistic styles that were just then being rediscovered in  Pompeii and this ancient Roman town that was destroyed in what year",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which politician represents a city on the Flathead Indian Reservation?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How many minutes outside of Carson City is the Moonlite BunnyRanch on Moonlight Road?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Richford is a town in Franklin County Vermont governed by what kind of body?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the name of the process used by a company that is located in New Jersey and invented Hexachrome?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What Division was the college footbal team that fired their head coach on November 24, 2006?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "George Reed was, along with which Drake University player, one of the greatest running backs in CFL history?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which musician was born first, Constantine Orbelian or Lili Chookasian?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which partner of Jash was born in 1970?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which scientist at the University of Alabama in Huntsville co-developed a satellite temperature record with John Christy?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who co-starred in an episode of The ABC Comedy Hour with the man who played Duke Slater in \"Gomer Pyle, U.S.M.C.\"? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When was the stadium that held the 2015 Magyar Kupa demolished?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What honor has been received by both a former NASA Astronaut and the Founder of FlightSafety International?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which of the two airlines that operate flights into Enrique Malek International Airport is the larger air carrier in Panama?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The pseudonymous partner to \"Willis the Guard\" in the American musical duo of Jerry Buckner and Gary Garcia is noun which refers to which portion of a bet?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are PC Magazine and Sculptural Pursuit both technology publications?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Toni Braxton: Revealed was performed at a hotel and casino owned and operated by who?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are David O. Russell and Tony Gatlif from the same country?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where did Henri Christophe and other slaves hold an uprising from 1791 to 1804 that led to the founding of a state which was both free from slavery and ruled by non-whites and former captives?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is the Chief Executive Officer of the corporation that owns Space Dev?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which dog breed is NOT recognized by the F\u00e9d\u00e9ration Cynologique Internationale (FCI), the Korean Jindo or the Taigan?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which playwright lived a longer life, Edward Albee or J. M. Barrie?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "A puzzle-platform video game developed by the Valve Corporation is part of what 2012 action-adventure game?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The author of the \"The Dagger and the Coin\" fantasy series was nominated for what award in 2017?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "A series of ministerial meetings and agreements between European countries and includes The Swedish higher education system is called what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What mixed martial arts even took place at a closed hotel and casino on the Boardwalk in Atlantic City, owned by Trump Entertainment Resorts?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the population of the city in which the first edition of the South American Youth Olympic Games were held?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": " Lou Cutell appeared on the third episode of the ninth season of an CBS sitcom that was what number episode overall?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the budget of the prequel to Beyond Skyline?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was Randy Shughart's rank when he died?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who composed the theme music in 1989 of an animated television series which has the current arrangement by a person who  has scored or orchestrated music for more than 30 films and television shows?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which band formed in England, Of Montreal or Vib Gyor?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Shane and Friends have interviewed an American YouTube personality who has two active YouTube channels, which have a combined total of how many views?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Camp Courtney was named after the Major killed in action at the battle codenamed what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Ross Pople worked with which English composer known for his opera \"The Midsummer Marriage\"?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Linhai and Gongqingcheng are both what kinds of cities that are located in China?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which case was decided first, Selle v. Gibb or Reynolds v. Sims?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which species is the most numerous, Podocarpus or Osmunda? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The structure in Wyoming in which Bo\u0159e\u0148 is similar to has a summit that is how many feet above sea level?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which American swimmer, coached by Ray Looze, won a bronze medal in the men's 100 meter breaststroke at the 2016 Summer Olympics?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The brother of Ferdinand Alfred Friedrich Jodl served as what position in World War II?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Calling All Dawns includes the theme for the game \"Civilization IV,\" written by whom?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": " The A5117 runs between Shotwick and a village with a 2011 population of what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the full name of the company co founded by Jay Van Andel?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What age did a wrestler began his training at who began his friendship with Trevor Mann in Brookport, Illinois CPW?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Meomi Design works include The Octonauts book series, how did the adaptations of the series continue? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the code name of the campaign where Joe Foss received a Medal of Honor?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the name of the independent candidate in Maine's 2010 gubernatorial race who finished ahead of Libby Mitchell?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What actress from \"The House of Mirth\" played an FBI agent involved in the cover up of extraterrestrials?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Rynella is an unincorporated community named after the daughters of a conservationist who presided of the maker of a brand of hot sauce made from vinegar, salt and what kind of peppers? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What novel about a murderer inspired Till Lindemann's music?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which former president of the F\u00e9d\u00e9ration Internationale de l'Automobile (FIA) cofounded Simtek Research?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who wrote the 1995 American action film starring a two-time consensus All-American?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Mick Carter is the landlord of a public house located at what address?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Cagliostro-Walzer op.370 was composed by a man born in what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is the mother of Mary Robinson in Shakespeare's \"The Winter's Tale\"",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Falling Stars is a role-playing game published by the company based out of what country?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which 2010 Norwegian documentary miniseries featured an expert who is the Director of the University of Cambridge's Autism Research Centre?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": " Which American rock band, Sugar Ray or Against the Current gained mainstream fame in the 1990's?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": " Steven S. Crompton is a Canadian-born artist known as the artist for a a fantasy role-playing game designed by Ken St. Andre and first published by who?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the release year of the song which, according to Peter Viney, appeared on most subsequent live album and compilations?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Butautas tried to depose his uncle who between which years ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who wrote and directed the American film, Elephant?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Illmatic, the debut studio album by Nas which featured the song \"N.Y. State of Mind\", was released on what date by which record label?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What city does the company that owns Bumble and bumble have its headquarters in?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Alan Schechter supervised a woman with her senior thesis entitled what",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where is Anticimex's parent company headquartered?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Arabella Chapman graduated from which school that was opened as the Albany Free Academy?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who founded O Magazine that contained Elissa Schappell's second book of fiction?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The King of Hollywood starred in what 1932 American pre-Code dram film?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What are the letters of the radio station serves the area comprising all of Belknap County, among others?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which town has a greater population as of the 2010 census, Minden, Nevada or Gardnerville, Nevada?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What city has a football team and had a player from Pago Pago, American Samoa play for it?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "June Martino served as bookkeeper for the man who revolutionized what company?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Kyle Ezell is a professor at what School of Architecture building at Ohio State?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What organization affiliated with the National Collegiate Athletic Association Division were the 2012 Hawaii Warriors football team first year members of?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Are Lance King and Han Seung-yeon both heavy metal vocalists?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which European based oil giant bought the commodities trading arm of J.P. Morgan in 2014?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What was the name of the first biography of Bront\u00eb written by the author of Mary Barton?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Was Atom Egoyans biggest commercial success on stage or on film?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which dog breed originates from a region farther east, the Lancashire Heeler or the Russian tracker?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Micha\u00ebl Llodra of France, called \"the best volleyer on tour\", defeated Juan Mart\u00edn del Potro a professional of what nationality?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the area of the desert that Ghanzi is in the middle of?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is another name, in Swedish, for a seductive forest creature found in Scandinavian folklore?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "High School Confidential, an eight part documentary followed twelve high school teenagers from a high school in Overland Park, Kansas that ranked what in the 2009 Newsweek ranking of the top 1,500 high schools in the United States?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Is there fruit juice in both a Fizz and a Painkiller cocktail?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which of the movie which has Rich Lee 3-D previsualizations was directed by Francis Lawrence?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Ken Pruitt  was a Republican member of an upper house of the legislature with how many members ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What university in India hosts a literary festival which has had as a previous invitee the former Union Minister of Panchayati Raj?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the familial relationship of the founder of the Gulf Cartel to Juan Garc\u00eda \u00c1brego?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Considered the strongest recorded tropical cyclone, which cyclone had a film made about it in 2007?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "A former Australian rules football player who played with the Port Adelaide in the South Australian National Football League is the vice president of a video game company based where?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who is older, Tarryl Lynn Clark or Michele Marie Bachmann?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which British-Mauritian model starred alongside Raj Babbar and Mahesh Manjrekar in a 2011 Indian romantic comedy film?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What created the terrirtories of Kansas and Nebraska and was combated by the The Republican Party?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Charles Barkley changed his jersey number to #32 in honor of a player born in which year ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The central figure used in the corporate branding of Singapore Airlines has been an element of it's marketing since what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which writer of the song \"Money, Money, Money\" by pop group ABBA was born on 16 December 1946 ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what town is the office organization solutions company whose Canadian arm is Oxford headquartered?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Swingin' Down Yonder is the first full-length, 12-inch album recorded by a singer known by what nickname?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The FIBT World Championships 1960 took place in a town located in which part of Italy ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Disney version of Ebenezer Scrooge was voiced by whom?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Heinrich Scholz was a peer of what English computer scientist, mathematician, logician, cryptanalyst, philosopher and theoretical biologist?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which famous mine was in service first, the Salmita Mine or the Kanichee Mine?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where is Greensky Bluegrass band's home and location of where they created their first album?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "License to Drive featured what future president of the Screen Actors Guild?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The author of \"We Were Soldiers Once\u2026 And Young\" received what military decoration for valor?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How many albums have been sold by the band who was supported by Iron Maiden on their World Wide Blitz Tour?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Twelfth United States Army Group commander was the first chairman of what?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Whose writing covered more topics, Alan Dean Foster or Samuel R. Delany?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who voices Homer Simpson's character on the animated television series? ",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Stephen susco wrote a movie produced by which american film actor?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "In what year year was the believed subject of the Lenny Kravitz song \"Lady\" born?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When was the head coach representing the Eastern Conference during the 2000 NBA All-Star Game born?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The 2008 American romantic drama film directed by David Fincher won what directing award?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The company that Park Joo-mi made her entertainment debut as a model for has its headquarters in what building in Seoul?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which group did Masta Kill released Selling My Soul under?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who replaced the manager of the Aston Villa that began at Leeds United?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which 18th-century canal was longer, the Sandy and Beaver Canal in Ohio or New Jersey's Morris Canal?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Rafe Hernandez is a fictional character who played with Chrishell Stause's charachter on Days of our live?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What boy band formed in Orlando, Florida in 1993 performed at the 2001 Kids Choice Awards?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What past honoree from the New Dramatists Organization is a powerful baritone who won the Tony Award for Best Actor in 2000?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Kete Krachi is a town in what region?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "\"wild combination\" was a film about a man who was an American cellist, composer, producer and singer, who is he?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What play was written by Evgeny Schwartz and directed by Benno Besson?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Kevin Short had a role as the Jailer in which three-act French opera?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What organization does Sandra Pizzarello and Doctorate have in common?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "How many albums did the company who released Tift Merritt's debut album release for Tif Merritt?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The 2015 Austrian thriller film Jack tells the story of a serial killer who died in what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What profession does Matt Thiessen and George Thorogood have in common?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Who was a supporting cast member of King Rat and was knighted in February 2001?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Jomar Brun contributed to an operation designed to prevent what country from producing nuclear weapons?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The head coach for the defensive backs coach, Peter Giunta, led what professional football team to two Super Bowl victories against the New England Patriots?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which hip hop act that collaborated in the Red Hot AIDS Benefit Series was also a trio that was formed in New York?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which airport, Salt Lake City International Airport or Brainerd Lakes Regional Airport, serves as a commercial airline and is closest to it's respective downtown city?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Oprah Winfrey narrated a documentary about this athlete who rode 400 miles across his country to bring attention to the plight of the disabled in the country?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which Skagen Painter favored naturalism along with Theodor Esbern Philipsen and Kristian Zahrtmann?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the name of the album released by a British heavy metal band in February of 1981 that contains a reference to a highway?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The telenova \"El Ardiente Secreto\" was based ona novel published under what pen name?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Where does the founder of The International Grenfell Association act as a missionary to?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which English actor starred in the 1995 american romantic drama film The Scarlet Letter alongside Demi Moore and Robert Duvall?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Which company does Timothy Oulton retail his products through that is based in Corte Madera?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What American actor born in 1946 was in a 1996 martial arts film written, produced, and directed by Donald G. Jackson and is also the uncle of Charlie Sheen?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "WHat dish is  Dacryopinax spathularia included in that is also sometimes called Lu\u00f3h\u00e0n c\u00e0i?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "Seal Harris was born in what county?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "The Church of St Peter in Pertenhall, Bedfordshire, England was added to this register on 13 July 1964.",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What is the first name of the mother of the artist who interpreted Karla  Bonoff's Tell Me Why ?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What Happens in Vegas, an American comedy film starring Lake Bell, was released in what year?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What languages is the journal that Michel Feher semi-regularly blogs for published in?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": " where is the American professional basketball team which Jalen Jones played for based",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When was the conference the The 1998 West Virginia Mountaineers football team was part of  created?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "When was the plaintiff in the 1892 Barbed Wire Patent Case born?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  },
+  {
+    "question": "What championship did the person who substituted for Simon Pagenaud secure a contract to drive in 2017?",
+    "alternate_scenario": {
+      "error": "Object of type PydanticUndefinedType is not JSON serializable"
+    }
+  }
+]

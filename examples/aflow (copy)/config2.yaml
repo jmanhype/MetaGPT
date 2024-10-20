@@ -1,0 +1,12 @@
+models:
+ "gpt-4-turbo":
+   api_type: "openai"
+   base_url: "https://api.openai.com/v1"
+   api_key: "sk-lSCIE8BXj4A-4WO8YxKh-5qEBQtz354nocY1rheG3dT3BlbkFJJaPU0lj1l6bf8JvmiK5evF-uf8zpt0EVZ6bzR4-pcA"
+   temperature: 0
+ "gpt-3.5-turbo":  
+   api_type: "openai"  
+   base_url: "https://api.openai.com/v1"
+   api_key: "sk-lSCIE8BXj4A-4WO8YxKh-5qEBQtz354nocY1rheG3dT3BlbkFJJaPU0lj1l6bf8JvmiK5evF-uf8zpt0EVZ6bzR4-pcA"
+   temperature: 0
+CALC_USAGE: True 

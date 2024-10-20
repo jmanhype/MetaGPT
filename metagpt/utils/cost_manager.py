@@ -28,7 +28,7 @@ class CostManager(BaseModel):
     total_prompt_tokens: int = 0
     total_completion_tokens: int = 0
     total_budget: float = 0
-    max_budget: float = 10.0
+    max_budget: float = 00.40
     total_cost: float = 0
     token_costs: dict[str, dict[str, float]] = TOKEN_COSTS  # different model's token cost
 
